@@ -1,0 +1,607 @@
+  {"items" :
+   [
+    {
+      "District Name": "Srikakulam",
+      "pic":
+          "https://cdn.s3waas.gov.in/s3f899139df5e1059396431415e770c6dd/uploads/2019/06/2019061214.jpg",
+      "pics2": [
+        "https://static.javatpoint.com/tourist-places/images/tourist-places-in-srikakulam1.png",
+        "https://static.javatpoint.com/tourist-places/images/tourist-places-in-srikakulam2.png",
+        "https://static.javatpoint.com/tourist-places/images/tourist-places-in-srikakulam3.png",
+        "https://static.javatpoint.com/tourist-places/images/tourist-places-in-srikakulam4.png",
+        "https://static.javatpoint.com/tourist-places/images/tourist-places-in-srikakulam5.png",
+        "https://static.javatpoint.com/tourist-places/images/tourist-places-in-srikakulam6.png"
+      ],
+      "about District":
+          "Srikakulam district is one of the twenty-six districts of the Indian state of Andhra Pradesh, located in the Uttarandhra region of the state, with its headquarters located at Srikakulam.[5][6] It is one of the six districts, located in the extreme northeastern direction of the state. It was formerly known as Chicacole , and was under Ganjam district till 1936 April 1, then merged under Vizagapatam district .This was once the part of ancient Kalinga.",
+      "mandal": "30",
+      "population": "27,03,114",
+      "Area(in sq mtr)": "5,837",
+      "density": "477.34",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s3f899139df5e1059396431415e770c6dd/uploads/bfi_thumb/2021061026-p8g7srygge4yx8q0ffy9phw35pse40oioox0gbded8.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri.Shrikesh B Lathkar, I.A.S.",
+      "number": "-",
+      "Email": " collector.sklm@ap.gov.in"
+    },
+    {
+      "District Name": "Parvathipuram Manyam",
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Parvathipuram_Manyam_in_Andhra_Pradesh_%28India%29.svg/1024px-Parvathipuram_Manyam_in_Andhra_Pradesh_%28India%29.svg.png",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kamalingeswara_Temple%2C_Gallavilli%2C_Andhra_Pradesh_-_01.jpg/800px-Kamalingeswara_Temple%2C_Gallavilli%2C_Andhra_Pradesh_-_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pedda_gedda_dam_front_look_-_panoramio.jpg/800px-Pedda_gedda_dam_front_look_-_panoramio.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Palakonda.jpg/800px-Palakonda.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/A_view_of_Eastern_Ghats_from_outskirts_of_Parvathipuram.jpg/800px-A_view_of_Eastern_Ghats_from_outskirts_of_Parvathipuram.jpg"
+      ],
+      "about District":
+          "Parvathipuram Manyam district is a district in the Indian state of Andhra Pradesh. With Parvathipuram as its administrative headquarters, it became functional from 4th April 2022. The district was formed from Parvathipuram revenue division from Vizianagaram district and part of Palakonda revenue division of Srikakulam district.[3][4][5][6] The district was once part of ancient Kalinga. The famous Kamalingeswara swamy temple was built in the regin of King Rajaraja Deva of Eastern Ganga Dynasty of Odisha in 11th century",
+      "mandal": "15",
+      "population": "29,25,340",
+      "Area(in sq mtr)": "3,659",
+      "density": "252.89",
+      "adminpic":
+          "https://visakhapatnam.ap.gov.in/wp-content/themes/district-theme-11/images/no-image.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Nishant Kumar , IAS",
+      "number": "08963-293046",
+      "Email": "collector-pmanyam@ap.gov.in"
+    },
+    {
+      "District Name": "Vizianagaram",
+      "pic":
+          "https://cdn.s3waas.gov.in/s3cee631121c2ec9232f3a2f028ad5c89b/uploads/2022/04/2022041633.jpeg",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Port_Gate_of_Vijayanagaram_Kings.JPG/800px-Port_Gate_of_Vijayanagaram_Kings.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Jayathi_Kalinga_Temples%2C_Vizianagara_district%2C_Andhra_Pradesh_-_1.jpg/800px-Jayathi_Kalinga_Temples%2C_Vizianagara_district%2C_Andhra_Pradesh_-_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dibbesvara_temple%2C_Kalinga-style%2C_Saripalli_Andhra_Pradesh_01.jpg/800px-Dibbesvara_temple%2C_Kalinga-style%2C_Saripalli_Andhra_Pradesh_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eastern_Ghats_view_near_Sontivanipalem.jpg/800px-Eastern_Ghats_view_near_Sontivanipalem.jpg"
+      ],
+      "about District":
+          "Vizianagaram (Telugu: విజయనగరo; ) is the main city of the Vizianagaram District of North Eastern Andhra Pradesh in Southern India. Vizianagaram district was formed on 1 June 1979, with some parts carved from the neighbouring districts of Srikakulam and Visakhapatnam. It is, at present, the largest municipality of Andhra Pradesh in terms of population. It is located about 18 km inland from the Bay of Bengal, and 52 km northeast of Visakhapatnam.",
+      "mandal": "27",
+      "population": "19,30,811",
+      "Area(in sq mtr)": "4,122",
+      "density": "468.42",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s3cee631121c2ec9232f3a2f028ad5c89b/uploads/bfi_thumb/2023041222-q4w262f3mq5qu6sirkrlx5tqzea2lw663cl8gic4oc.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Ms.Nagalakshmi.S I.A.S.",
+      "number": "08922-276720",
+      "Email": "collector_vznm@ap.gov.in"
+    },
+    {
+      "District Name": "Visakhapatnam",
+      "pic":
+          "https://www.mapsofindia.com/maps/andhrapradesh/tehsil/vishakhapatnam-tehsil-map.jpg",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Vizag_View_from_Kailasagiri.jpg/800px-Vizag_View_from_Kailasagiri.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pylon_at_Vizag_Steel_Plant_01.jpg/800px-Pylon_at_Vizag_Steel_Plant_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Simhachalam_temple_view_from_the_rear_side_hillock.jpg/800px-Simhachalam_temple_view_from_the_rear_side_hillock.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/View_of_Stupas_at_Bavikonda%2C_Visakhapatnam.jpg/800px-View_of_Stupas_at_Bavikonda%2C_Visakhapatnam.jpg"
+      ],
+      "about District":
+          "Visakhapatnam is a coastal, port city, often called “The Jewel of the East Coast”, situated in  the of Andhra Pradesh, located on the eastern shore of India, nestled among the hills of the Eastern Ghats and facing the Bay of Bengal to the east. It is the administrative headquarters of Visakhapatnam District and is also home of the Eastern Naval Command of the Indian Navy.",
+      "mandal": "11",
+      "population": "19,59,544",
+      "Area(in sq mtr)": "1,048",
+      "density": "1869.79",
+      "adminpic":
+          "https://visakhapatnam.ap.gov.in/wp-content/themes/district-theme-11/images/no-image.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Dr.A.Mallikarjuna, IAS",
+      "number": "08912563121",
+      "Email": "collector_vspm@ap.gov.in"
+    },
+    {
+      "District Name": "Alluri Sitharama Raj",
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alluri_Sitharama_Raju_in_Andhra_Pradesh_%28India%29.svg/800px-Alluri_Sitharama_Raju_in_Andhra_Pradesh_%28India%29.svg.png",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Lambasinghi_on_a_cloudy_day.jpg/800px-Lambasinghi_on_a_cloudy_day.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Entrance_to_Borra_caves_from_above_01.jpg/800px-Entrance_to_Borra_caves_from_above_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Coffee_plantation_in_Araku_Valley_02.jpg/800px-Coffee_plantation_in_Araku_Valley_02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Chintapalle_Waterfalls.jpg/800px-Chintapalle_Waterfalls.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Papikondalu_04.jpg/800px-Papikondalu_04.jpg"
+      ],
+      "about District":
+          "Alluri Sitharama Raju district, also known as Alluri district and by its initials as ASR district, is a district in the Indian state of Andhra Pradesh. The headquarters of the district is located at Paderu. Named after Alluri Sitarama Raju, a revolutionary in the Indian independence movement who hailed from the region, the district was effective since 4 April 2022 and became one of the twenty-six districts in the state. The district famous for its scenic beauty , falls in the lap of Eastern Ghats.",
+      "mandal": "22",
+      "population": "9,53,960",
+      "Area(in sq mtr)": "12,251",
+      "density": "477.87",
+      "adminpic":
+          "https://visakhapatnam.ap.gov.in/wp-content/themes/district-theme-11/images/no-image.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri Sumit Kumar IAS",
+      "number": "-",
+      "Email": "collector-alluri@ap.gov.in"
+    },
+    {
+      "District Name": "Anakapalli",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Main_Stupa_Bojjannakonda.jpg/800px-Main_Stupa_Bojjannakonda.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anakapalle_Gandhi_Nagar.jpg/800px-Anakapalle_Gandhi_Nagar.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/NTPC_Simhadri_Super_thermal_power_plant_at_Parawada.jpg/800px-NTPC_Simhadri_Super_thermal_power_plant_at_Parawada.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Panchadharla_Temples_and_Monuments%2C_Dharapalem_village%2C_Andhra_Pradesh_-_71.jpg/800px-Panchadharla_Temples_and_Monuments%2C_Dharapalem_village%2C_Andhra_Pradesh_-_71.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Anakapalle_Sarada_River_Bridge.jpg/800px-Anakapalle_Sarada_River_Bridge.jpg"
+      ],
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Anakapalli_in_Andhra_Pradesh_%28India%29.svg/800px-Anakapalli_in_Andhra_Pradesh_%28India%29.svg.png",
+      "about District":
+          "Anakapalle is a suburb of Visakhapatnam in the Indian state of Andhra Pradesh. The municipality was merged with Greater Visakhapatnam Municipal Corporation.[5] It has the second largest jaggery market of the country.The town was originally under the rule of the Kalinga Empire (ancient Orissa), different dynasties ruled this region i.e. Chedi Kingdom of Kalinga (Orissa), Eastern Ganga dynasty of Orissa, Gajapati Kingdom of Orissa, Kakatiya, and Qutub Shahi empires. Around 1755, Kakarlapudi Appala Raju Payakarao took over the rule of the region under the Nawab of Arcot, with Anakapalle as his fortified headquarters. The saga of Anakapalle starts with a historian named “Tallapragada” place and found that Anakapalle. This was proved from the historical evidence found on Bojjana Konda. Satavahanas, Vishnukundina, Gajapathi’s, Vijayanagara Samrats, Golkonda Samanta Rajulu ruled the area.",
+      "mandal": "5",
+      "population": "17,26,998",
+      "Area(in sq mtr)": "4,292",
+      "density": "402.38",
+      "adminpic":
+          "https://visakhapatnam.ap.gov.in/wp-content/themes/district-theme-11/images/no-image.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri Pattanshetti Ravi Subhash IAS",
+      "number": "-",
+      "Email": "-"
+    },
+    {
+      "District Name": "Kakinada",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kumararama_Bhimesvara_temple%2Cfirst_floor%2Cgopuram%2Csamalkota.jpg/800px-Kumararama_Bhimesvara_temple%2Cfirst_floor%2Cgopuram%2Csamalkota.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9b/Jntucampus.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/2nd_century_Buddhist_site%2C_Kodavali_Andhra_Pradesh_-_33.jpg/800px-2nd_century_Buddhist_site%2C_Kodavali_Andhra_Pradesh_-_33.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Yeleru_dam_reservoir_at_Yeleswaram_view_03.JPG/800px-Yeleru_dam_reservoir_at_Yeleswaram_view_03.JPG"
+      ],
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kakinada_in_Andhra_Pradesh_%28India%29.svg/800px-Kakinada_in_Andhra_Pradesh_%28India%29.svg.png",
+      "about District":
+          "Kakinada district is a district in the Coastal Andhra Region in the Indian state of Andhra Pradesh. With Kakinada as its administrative headquarters, it was proposed on 26 January 2022 to become one of the resultant twenty six districts in the state after the final notification has been issued on 4 April 2022 by the government of Andhra Pradesh. The district was formed from Kakinada and Peddapuram revenue divisions from East Godavari district.",
+      "mandal": "21",
+      "population": "20,92,374",
+      "Area(in sq mtr)": "3,019",
+      "density": "693.07",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s3c74d97b01eae257e44aa9d5bade97baf/uploads/2022/04/2022040415.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Smt. Kritika Shukla IAS",
+      "number": "0884-2365424",
+      "Email": "collector-kkd@ap.gov.in"
+    },
+    {
+      "District Name": "East Godavari",
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/East_Godavari_in_Andhra_Pradesh_%28India%29.svg/800px-East_Godavari_in_Andhra_Pradesh_%28India%29.svg.png",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godavari_old_and_new_bridges_2.jpg/800px-Godavari_old_and_new_bridges_2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Golingeswara_temple_Biccavole_east_godavari.jpg/800px-Golingeswara_temple_Biccavole_east_godavari.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kovvur_shivalayam_02.jpg/800px-Kovvur_shivalayam_02.jpg"
+      ],
+      "about District":
+          "Anakapalle is a suburb of Visakhapatnam in the Indian state of Andhra Pradesh. The municipality was merged with Greater Visakhapatnam Municipal Corporation.It has the second largest jaggery market of the country.   The town was originally under the rule of the Kalinga Empire (ancient Orissa), different dynasties ruled this region i.e. Chedi Kingdom of Kalinga (Orissa), Eastern Ganga dynasty of Orissa, Gajapati Kingdom of Orissa, Kakatiya, and Qutub Shahi empires. Around 1755, Kakarlapudi Appala Raju Payakarao took over the rule of the region under the Nawab of Arcot, with Anakapalle as his fortified headquarters. The saga of Anakapalle starts with a historian named “Tallapragada” place and found that Anakapalle. This was proved from the historical evidence found on Bojjana Konda. Satavahanas, Vishnukundina, Gajapathi’s, Vijayanagara Samrats, Golkonda Samanta Rajulu ruled the area",
+      "mandal": "19",
+      "population": "18,32,332",
+      "Area(in sq mtr)": "2,561",
+      "density": "715.48",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s3c74d97b01eae257e44aa9d5bade97baf/uploads/2022/04/2022040415.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri Pattanshetti Ravi Subhash,IAS",
+      "number": "-",
+      "Email": "collector-ankp@ap.gov.in"
+    },
+    {
+      "District Name": "Konaseema",
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Konaseema_in_Andhra_Pradesh_%28India%29.svg/800px-Konaseema_in_Andhra_Pradesh_%28India%29.svg.png",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Draksharama_temple_entrance_02.JPG/800px-Draksharama_temple_entrance_02.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Crop_fields_in_Yeditha_village.jpg/800px-Crop_fields_in_Yeditha_village.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gummileru_Jain_Temple_close_view2.jpg/800px-Gummileru_Jain_Temple_close_view2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Amalapuram_LandMark.jpg/800px-Amalapuram_LandMark.jpg"
+      ],
+      "about District":
+          "Konaseema district is a proposed district in the Indian state of Andhra Pradesh. With Amalapuram as its administrative headquarters, it was proposed on 26 January 2022 to become one of the resultant twenty-six districts of the state once a final notification is issued by the government of Andhra Pradesh. The district would be formed from Amalapuram and Ramachandrapuram revenue divisions from East Godavari district.The Godavari delta is surrounded by the tributaries of Vruddha Godavari, Vasishta Godavari, Gautami and Nilarevu.",
+      "mandal": "22",
+      "population": "17,19,093",
+      "Area(in sq mtr)": "2,083",
+      "density": "825.30",
+      "adminpic":
+          "https://visakhapatnam.ap.gov.in/wp-content/themes/district-theme-11/images/no-image.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri Himanshu Shukla IAS",
+      "number": "-",
+      "Email": " collector_sklm@ap.gov.in"
+    },
+    {
+      "District Name": "Eluru",
+      "pic":
+          "https://cdn.s3waas.gov.in/s3eccbc87e4b5ce2fe28308fd9f2a7baf3/uploads/2022/04/2022040326-724x1024.jpeg",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Buddha_Park_in_Eluru_%28May_2019%29_10.jpg/800px-Buddha_Park_in_Eluru_%28May_2019%29_10.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/South_gopuram_of_Dwaraka_Tirumala_temple.jpg/800px-South_gopuram_of_Dwaraka_Tirumala_temple.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tammileru_river_towards_Kolleru.jpg/800px-Tammileru_river_towards_Kolleru.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sunrise_on_Tangellamudi%2C_Eluru.jpg/800px-Sunrise_on_Tangellamudi%2C_Eluru.jpg"
+      ],
+      "about District":
+          "Eluru district is a district in coastal Andhra Region in the Indian state of Andhra Pradesh. With Eluru as its administrative headquarters, it was proposed on 26 January 2022 to become one of the resultant twenty six districts in the state once a final notification is issued by the government of Andhra Pradesh. It is formed from Eluru revenue division and Jangareddygudem revenue division from West Godavari district and Nuzvid revenue division from Krishna district",
+      "mandal": "28",
+      "population": "20,71,700",
+      "Area(in sq mtr)": "6,679",
+      "density": "310.18",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s3eccbc87e4b5ce2fe28308fd9f2a7baf3/uploads/bfi_thumb/2022121553-pz6o8whlvo7mlts9taxxz1uv7jcyirec8wme4fsxaa.jpeg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri Himanshu Shukla IAS",
+      "number": "-",
+      "Email": "collector-eluru@ap.gov.in"
+    },
+    {
+      "District Name": "West Godavari",
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/West_Godavari_in_Andhra_Pradesh_%28India%29.svg/800px-West_Godavari_in_Andhra_Pradesh_%28India%29.svg.png",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bhimavaram_Paddy_Fields.JPG/800px-Bhimavaram_Paddy_Fields.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/A.P._VIllage_Rachuru.jpg/800px-A.P._VIllage_Rachuru.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SomeswaraSwamy-5.JPG/800px-SomeswaraSwamy-5.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Godavari_river_near_Achanta.jpg/800px-Godavari_river_near_Achanta.jpg"
+      ],
+      "about District":
+          "West Godavari district or Paschima Godavari Jilla is one of the 26 districts in the Indian state of Andhra Pradesh. The district is situated in Coastal Andhra region of the state. Eluru is the administrative headquarters of the district. As of 2011 census of India, it has an area of 2178.4 Sq. K.Ms and a population of 17,79,935. It is bounded by Eluru district on the west, River Godavari on the east, Krishna District and Bay of Bengal  on the south and the Rajahmundry District on the north.",
+      "mandal": "19",
+      "population": "17,79,935",
+      "Area(in sq mtr)": "2,178",
+      "density": "817.23",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s381448138f5f163ccdba4acc69819f280/uploads/2023/02/2023020627-1.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Smt P. Prasanthi I A S",
+      "number": "-",
+      "Email": " collector_sklm@ap.gov.in"
+    },
+    {
+      "District Name": "NTR",
+      "pic":
+          "https://cdn.s3waas.gov.in/s39461cce28ebe3e76fb4b931c35a169b0/uploads/2022/03/2022032036-768x543.jpg",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Night_view_of_Prakasam_Barrage.jpg/800px-Night_view_of_Prakasam_Barrage.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kondapalli_fort2.jpg/800px-Kondapalli_fort2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/KANAKADURGA_TEMPLE_VIJAYAWADA_AP_-_panoramio.jpg/800px-KANAKADURGA_TEMPLE_VIJAYAWADA_AP_-_panoramio.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/7th-century_Akkanna_Madanna_Upper_Cave%2C_Vijayawada%2C_Andhra_Pradesh_-_3.jpg/800px-7th-century_Akkanna_Madanna_Upper_Cave%2C_Vijayawada%2C_Andhra_Pradesh_-_3.jpg"
+      ],
+      "about District":
+          "NTR district is a district in coastal Andhra Region in the Indian state of Andhra Pradesh. The district headquarters is located at Vijayawada. The district is named after former Chief Minister of Andhra Pradesh N. T. Rama Rao. The district shares boundaries with Guntur, Palnadu, Krishna, Eluru, Khammam and Nalgonda districts",
+      "mandal": "20",
+      "population": "22,18,591",
+      "Area(in sq mtr)": "3,316",
+      "density": "669.06",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s39461cce28ebe3e76fb4b931c35a169b0/uploads/bfi_thumb/2022040368-pmtjg9sktxow6einlagmowb2q1pemln6vhque8993k.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Shri S. Dilli Rao I.A.S",
+      "number": "08662478090",
+      "Email": "collector-ntr@ap.gov.in"
+    },
+    {
+      "District Name": "Krishna",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/ad/Raja%27s_Fort_in_Challapalli.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Srikakulandhra_Maha_Vishnu_Temple_Panorama.jpg/800px-Srikakulandhra_Maha_Vishnu_Temple_Panorama.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Medha_IT_Park_Tower_1.jpg/800px-Medha_IT_Park_Tower_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Vijayawada_Airport_10_%28November_2018%29.jpg/800px-Vijayawada_Airport_10_%28November_2018%29.jpg"
+      ],
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Krishna_in_Andhra_Pradesh_%28India%29.svg/800px-Krishna_in_Andhra_Pradesh_%28India%29.svg.png",
+      "about District":
+          "Krishna District with its district headquarters at Machilipatnam is the coastal district of Andhra Pradesh. It was formerly called as Machilipatnam District. Later it was renamed as Krishna District after the holy river Krishna, by adding certain Taluks of the abolished Guntur District in 1859. Again in 1925, Krishna District was further divided into Krishna and West Godavari Districts. There are no changes in its jurisdiction except some minor changes (in Divi Taluk and Munagala Paragana). Further Again in 2022 Krishna District was divided into Krishna and NTR Districts.",
+      "mandal": "26",
+      "population": "17,35,079",
+      "Area(in sq mtr)": "3,775",
+      "density": "459.62",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s3c399862d3b9d6b76c8436e924a68c45b/uploads/2019/06/2023041594.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Shri P. Raja Babu, I.A.S.",
+      "number": "08672252668",
+      "Email": "collector_krsn@ap.gov.in"
+    },
+    {
+      "District Name": "Palnadu",
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Palnadu_in_Andhra_Pradesh_%28India%29.svg/800px-Palnadu_in_Andhra_Pradesh_%28India%29.svg.png",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dhyana_Buddha_Project.jpg/800px-Dhyana_Buddha_Project.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sri_Lakhsmichnnakesava_swami_temple45.jpg/800px-Sri_Lakhsmichnnakesava_swami_temple45.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Anupu_ei01-45.jpg/800px-Anupu_ei01-45.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ethipothala_Falls2.jpg/800px-Ethipothala_Falls2.jpg"
+      ],
+      "about District":
+          "Palnadu district is a district in coastal Andhra Region in the Indian state of Andhra Pradesh. With Narasaraopet as its administrative headquarters, it was formed on 4 April 2022 to become one of the resultant twenty-six districts The district was formed from Gurazala, Sattenapalli and Narasaraopet revenue divisions from Guntur district.The district covers most of the Palnadu region.",
+      "mandal": "28",
+      "population": "20,41,723",
+      "Area(in sq mtr)": "7,298",
+      "density": "279.76",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s3e4da3b7fbbce2345d7772b0674a318d5/uploads/2022/04/2022040347.jpeg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri Siva Sankar Lotheti, I.A.S.",
+      "number": "-",
+      "Email": "collector-palnadu@ap.gov.in"
+    },
+    {
+      "District Name": "Guntur",
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Guntur_in_Andhra_Pradesh_%28India%29.svg/800px-Guntur_in_Andhra_Pradesh_%28India%29.svg.png",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vykuntapuram_temple_entrance%2C_Tenali.jpg/800px-Vykuntapuram_temple_entrance%2C_Tenali.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/%E0%B0%AE%E0%B0%82%E0%B0%97%E0%B0%B3%E0%B0%97%E0%B0%BF%E0%B0%B0%E0%B0%BF_%E0%B0%B2%E0%B1%8B_%E0%B0%B2%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B1%8D%E0%B0%AE%E0%B1%80%E0%B0%A8%E0%B0%B0%E0%B0%B8%E0%B0%BF%E0%B0%82%E0%B0%B9%E0%B0%B8%E0%B1%8D%E0%B0%B5%E0%B0%BE%E0%B0%AE%E0%B0%BF_%E0%B0%86%E0%B0%B2%E0%B0%AF_%E0%B0%97%E0%B1%8B%E0%B0%AA%E0%B1%81%E0%B0%B0%E0%B0%82.JPG/800px-%E0%B0%AE%E0%B0%82%E0%B0%97%E0%B0%B3%E0%B0%97%E0%B0%BF%E0%B0%B0%E0%B0%BF_%E0%B0%B2%E0%B1%8B_%E0%B0%B2%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B1%8D%E0%B0%AE%E0%B1%80%E0%B0%A8%E0%B0%B0%E0%B0%B8%E0%B0%BF%E0%B0%82%E0%B0%B9%E0%B0%B8%E0%B1%8D%E0%B0%B5%E0%B0%BE%E0%B0%AE%E0%B0%BF_%E0%B0%86%E0%B0%B2%E0%B0%AF_%E0%B0%97%E0%B1%8B%E0%B0%AA%E0%B1%81%E0%B0%B0%E0%B0%82.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Chuttugunta_center%2C_Guntur.jpg/800px-Chuttugunta_center%2C_Guntur.jpg"
+      ],
+      "about District":
+          "Guntur is a district in Andhra Pradesh, India covering an area of 11,391 sq. km onthe Deccan, the first home of man in India. Palaeolithic (old stone age) implements have been found, suggesting that man then roamed the region. The Kingdom of Prataliputra (5th century BC)}, identified with Bhattiprolu, appears to be the earliest known kingdom in Guntur District. Inscriptional evidence shows that king Kubera was ruling over Bhattiprolu around 230 BC followed by the Sala Kings. Guntur was successively ruled by famous dynasties such as the Satavahanas, Ikshavakus, Pallavas, Anandagothrins, Vishnu Kundins, Chalukyas, Cholas, Kakatiyas, Reddies, Vijayanagara and Kutub Shahis during ancient and medieval times. Later, several subordinate kingdoms ruled the region. These subordinate dynasties also indulged in mutual wars, one of which culminated in a famous battle of Palnadu which is enshrined in legend and literature as “Andhra Kurukshetra” in 1180 AD.",
+      "mandal": "18",
+      "population": "20,91,075",
+      "Area(in sq mtr)": "2,443",
+      "density": "855.95",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s30777d5c17d4066b82ab86dff8a46af6f/uploads/2023/01/2023011066.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri M. Venugopal Reddy, I.A.S.",
+      "number": "-",
+      "Email": "collector_gntr@ap.gov.in"
+    },
+    {
+      "District Name": "Bapatla",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Maha_Stupa_at_Bhattiprolu_01.jpg/800px-Maha_Stupa_at_Bhattiprolu_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Beautiful_Morning_at_Bay_of_Bengal.jpg/800px-Beautiful_Morning_at_Bay_of_Bengal.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Building_of_Vetapalem_Library.jpg/800px-Building_of_Vetapalem_Library.jpg"
+      ],
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bapatla_in_Andhra_Pradesh_%28India%29.svg/375px-Bapatla_in_Andhra_Pradesh_%28India%29.svg.png",
+      "about District":
+          "Bapatla district is a district in coastal Andhra in the Indian state of Andhra Pradesh established on 4 April 2022. The administrative headquarter is Bapatla. The district is formed from parts of erstwhile Prakasam district and Guntur districts.",
+      "mandal": "25",
+      "population": "15,86,918",
+      "Area(in sq mtr)": "3,829",
+      "density": "414.45",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s345c48cce2e2d7fbdea1afc51c7c6ad26/uploads/2023/04/2023041528.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri P. Ranjit Basha, IAS.",
+      "number": "-",
+      "Email": "collector-bapatla@ap.gov.in"
+    },
+    {
+      "District Name": "Prakasam",
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Prakasam_in_Andhra_Pradesh_%28India%29.svg/800px-Prakasam_in_Andhra_Pradesh_%28India%29.svg.png",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/7th_to_8th_century_Bhairavakona_rock_cut_cave_temples%2C_Ambavaram_Nallamala_Hills%2C_Andhra_Pradesh_-_14.jpg/800px-7th_to_8th_century_Bhairavakona_rock_cut_cave_temples%2C_Ambavaram_Nallamala_Hills%2C_Andhra_Pradesh_-_14.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DRYING_CHILLIES%2CDORNALA%2CAP_-_panoramio.jpg/800px-DRYING_CHILLIES%2CDORNALA%2CAP_-_panoramio.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DKD_Church.JPG/800px-DKD_Church.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pakala_Beach%2CSingarayakonda.jpg/800px-Pakala_Beach%2CSingarayakonda.jpg"
+      ],
+      "about District":
+          "The Prakasam District named in memory of the eminent freedom fighter, later Chief Minister of the composite Madras State and the first Chief Minister of Andhra Pradesh State, late Sri Tanguturi “Prakasam Panthulu, “Andhra Kesari” who was born at Vinodarayuni palem, a hamlet of Kanaparthi village of Naguluppala Padu Mandal of this district.",
+      "mandal": "39",
+      "population": "22,88,026",
+      "Area(in sq mtr)": "14,322",
+      "density": "159.76",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s3f3f27a324736617f20abbf2ffd806f6d/uploads/2022/04/2022040536.jpeg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri.A S Dinesh Kumar,IAS",
+      "number": "8886616001",
+      "Email": " collector_sklm@ap.gov.in"
+    },
+    {
+      "District Name": "Nellore",
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Sri_Potti_Sriramulu_Nellore_in_Andhra_Pradesh_%28India%29.svg/800px-Sri_Potti_Sriramulu_Nellore_in_Andhra_Pradesh_%28India%29.svg.png",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Udayagiri_Fort_%2816%29.jpg/800px-Udayagiri_Fort_%2816%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pinakini_satygraha_Aasram%2C_in_rainy.jpg/800px-Pinakini_satygraha_Aasram%2C_in_rainy.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mypadu_beach-sunrise.jpg/800px-Mypadu_beach-sunrise.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/Damaramadugu_Rice_Fields.jpg"
+      ],
+      "about District":
+          "Nellore District situated in the South Eastern portion of the state with a coastal length of 163 KM bounded by Bay of Bengal on the East. The district was known as Vikrama Simhapuri until 13th Century and later it came to be referred to as Nellore.  ",
+      "mandal": "38",
+      "population": "24,69,712",
+      "Area(in sq mtr)": "10,441",
+      "density": "236.54",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s39c82c7143c102b71c593d98d96093fde/uploads/2018/07/2023041211.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri Hari Narayanan.M IAS",
+      "number": "-",
+      "Email": " collector_sklm@ap.gov.in"
+    },
+    {
+      "District Name": "Kurnool",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/23_-_Telugu_Talli_Statue_with_Kondareddy_Buruju_as_background.JPG/800px-23_-_Telugu_Talli_Statue_with_Kondareddy_Buruju_as_background.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/MANTRALAYAM-Dr._Murali_Mohan_Gurram_%281%29.jpg/800px-MANTRALAYAM-Dr._Murali_Mohan_Gurram_%281%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rock_Garden_Kurnool_Sudhakar_Bichali.jpg/800px-Rock_Garden_Kurnool_Sudhakar_Bichali.jpg",
+        "https://cdn.s3waas.gov.in/s37f24d240521d99071c93af3917215ef7/uploads/bfi_thumb/2018022871-1024x768-olwa0o7x3342p9pe1aasvu62z0vcw8isnqejgjnqow.jpg"
+      ],
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kurnool_in_Andhra_Pradesh_%28India%29.svg/800px-Kurnool_in_Andhra_Pradesh_%28India%29.svg.png",
+      "about District":
+          "This district derives its name from its chief town Kurnool the capital of former Nawabs, Capital of Andhra Pradesh State from 1st October 1953 to 1st November, 1956 and at present the headquarters of the district. The name Kurnool is said to have been derived form “Kandanavolu”.",
+      "mandal": "26",
+      "population": "22,71,686",
+      "Area(in sq mtr)": "7,980",
+      "density": "284.67",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s37f24d240521d99071c93af3917215ef7/uploads/bfi_thumb/2023050996-scaled-q67i2akas1fhh5iu2gzljtxn9mcro8acq0jain28fw.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Dr. G.Srijana I.A.S.",
+      "number": "08518220006",
+      "Email": "collector_krnl@ap.gov.in"
+    },
+    {
+      "District Name": "Nandyal",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lower_Ahobilam_temple_view.jpg/800px-Lower_Ahobilam_temple_view.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/15th_century_Yaganti_Umamahesvara_temple%2C_Andhra_Pradesh_India_-_138.jpg/800px-15th_century_Yaganti_Umamahesvara_temple%2C_Andhra_Pradesh_India_-_138.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/7th_century_Sivanandisvara_temple%2C_Kadamala_kalva%2C_Andhra_Pradesh_India_-_12.jpg/800px-7th_century_Sivanandisvara_temple%2C_Kadamala_kalva%2C_Andhra_Pradesh_India_-_12.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Srisailam_Tiger_Reserve_Area_20150314_115117_Richtone%28HDR%29.jpg/800px-Srisailam_Tiger_Reserve_Area_20150314_115117_Richtone%28HDR%29.jpg"
+      ],
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Nandyal_in_Andhra_Pradesh_%28India%29.svg/800px-Nandyal_in_Andhra_Pradesh_%28India%29.svg.png",
+      "about District":
+          "Nandyal district is a district in the Indian state of Andhra Pradesh with Nandyal as its administrative headquarters, it was formed on 4 April 2022 to become one of the resultant 26 districts. It is part of the Rayalaseema region. The district consists of Nandyal revenue division and a newly formed Dhone revenue division and Atmakur revenue division from Kurnool district.",
+      "mandal": "30",
+      "population": "17,81,777",
+      "Area(in sq mtr)": "9,682",
+      "density": "184.03",
+      "adminpic":
+          "https://visakhapatnam.ap.gov.in/wp-content/themes/district-theme-11/images/no-image.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri. Shrikesh B Lathkar, I.A.S.",
+      "number": "-",
+      "Email": " collector_sklm@ap.gov.in"
+    },
+    {
+      "District Name": "Anantapur",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/15th_century_Bugga_Ramalingeswara_temple%2C_Tadipatri%2C_Andhra_Pradesh%2C_India_-_193.jpg/800px-15th_century_Bugga_Ramalingeswara_temple%2C_Tadipatri%2C_Andhra_Pradesh%2C_India_-_193.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gooty_Fort.JPG/800px-Gooty_Fort.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Penna_Ahobilam%2C_Uravakonda%2C_Anantapur_%28125425%29_Fotor.jpg/800px-Penna_Ahobilam%2C_Uravakonda%2C_Anantapur_%28125425%29_Fotor.jpg"
+      ],
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Anantapur_in_Andhra_Pradesh_%28India%29.svg/375px-Anantapur_in_Andhra_Pradesh_%28India%29.svg.png",
+      "about District":
+          "Ananthapuramu got its name from ‘Anaatasagaram’, a big tank, which means “Endless Ocean”. The villages of Anaantasagaram and Bukkarayasamudram were constructed by Anantaras Chilkkavodeya, the minister of Bukka-I, a Vijayanagar ruler. Some authorities assert that Anaantasagaram was named after Bukka’s queen, while some contend that it must have been known after Anantarasa Chikkavodeya himself, as Bukka had no queen by that name. Anantapur District was formed in the year 1882 having been separated from Bellary distric",
+      "mandal": "32",
+      "population": "22,41,105",
+      "Area(in sq mtr)": "10,205",
+      "density": "219.61",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s333e8075e9970de0cfea955afd4644bb2/uploads/bfi_thumb/2023041097-q4t21rkjr4fkzdppz2vw9fcdtpha3srhimp2f0s66g.jpeg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Smt. Gowthami.M. IAS",
+      "number": "9493188801",
+      "Email": "collector_antp@gov.in"
+    },
+    {
+      "District Name": "Sri Sathya Sai",
+      "pic":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sri_Sathya_Sai_in_Andhra_Pradesh_%28India%29.svg/800px-Sri_Sathya_Sai_in_Andhra_Pradesh_%28India%29.svg.png",
+      "pics2": [
+        "https://cdn.s3waas.gov.in/s3647bba344396e7c8170902bcf2e15551/uploads/2022/04/2022042358.jpg",
+        "https://cdn.s3waas.gov.in/s3647bba344396e7c8170902bcf2e15551/uploads/2022/03/2022032957.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Shiva%27s_Bull_at_Lepakshi_%28Lepakshi_Nandi%29.jpg/800px-Shiva%27s_Bull_at_Lepakshi_%28Lepakshi_Nandi%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kadiri_03.jpg/800px-Kadiri_03.jpg"
+      ],
+      "about District":
+          "Sri Sathya Sai district is a district in the Indian state of Andhra Pradesh. Its headquarters is at Puttaparthi. It was formed on 4 April 2022 from parts of the erstwhile Anantapur district. This district is named after Indian Guru Sri Sathya Sai Baba, who contributed to improving the infrastructure of the Rayalaseema region by building schools, university, free healthcare institutions and drinking water projects.",
+      "mandal": "32",
+      "population": "18,40,043",
+      "Area(in sq mtr)": "8,925",
+      "density": "206.17",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s3647bba344396e7c8170902bcf2e15551/uploads/bfi_thumb/2023041024-q4t5zxnrg11v057et17hw1t8cqqvbq5y2avwinzj2g.jpeg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri.P.Arun Babu., IAS,",
+      "number": "-",
+      "Email": "collector-sssai@ap.gov.in"
+    },
+    {
+      "District Name": "Kadapa",
+      "pics2": [
+        "https://cdn.s3waas.gov.in/s37dcd340d84f762eba80aa538b0c527f7/uploads/2018/02/2018022875.jpg",
+        "https://cdn.s3waas.gov.in/s37dcd340d84f762eba80aa538b0c527f7/uploads/2018/05/2018051919.jpg",
+        "https://cdn.s3waas.gov.in/s37dcd340d84f762eba80aa538b0c527f7/uploads/2019/06/2019062512.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rayalaseema_Thermal_Power_Station.jpg/800px-Rayalaseema_Thermal_Power_Station.jpg"
+      ],
+      "pic":
+          "https://cdn.s3waas.gov.in/s37dcd340d84f762eba80aa538b0c527f7/uploads/2022/04/2022042520.jpg",
+      "about District":
+          "YSR District (formerly  known as Kadapa District) is said to be the heart of the Rayalaseema as it is centrally located and well connected with the 8 districts of Rayalaseema. The District has a glorious history and a rich cultural heritage. YSR district is one of the 26 districts in the State  of Andhra Pradesh.",
+      "mandal": "36",
+      "population": "20,60,654",
+      "Area(in sq mtr)": "11,228",
+      "density": "183.53",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s37dcd340d84f762eba80aa538b0c527f7/uploads/bfi_thumb/2021091356-scaled-pd1khaz2bnxh4t247so640itijh6z61kq10qddrum8.jpg",
+      "Designation": "Collector & District Magistrate",
+      "name": "V Vijay Rama Raju, IAS",
+      "number": "08562-244676",
+      "Email": "collector_kdp@ap.gov.in"
+    },
+    {
+      "District Name": "Annamayya",
+      "pics2": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Temple_of_Sri_Soumyanatha_Swamy_Nandalur_Kadapa_AP_INDIA.jpg/800px-The_Temple_of_Sri_Soumyanatha_Swamy_Nandalur_Kadapa_AP_INDIA.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sri_Parasurameshwara_Temple%2C_Attirala.jpg/800px-Sri_Parasurameshwara_Temple%2C_Attirala.jpg",
+        "https://cdn.s3waas.gov.in/s31be3bc32e6564055d5ca3e5a354acbef/uploads/2022/03/2022032298.jpg",
+        "https://cdn.s3waas.gov.in/s31be3bc32e6564055d5ca3e5a354acbef/uploads/2022/02/2022022512.jpg"
+      ],
+      "pic":
+          "https://cdn.s3waas.gov.in/s31be3bc32e6564055d5ca3e5a354acbef/uploads/2022/04/2022042873.jpg",
+      "about District":
+          "Annamayya District is the extreme south eastern district of Andhra Pradesh situated within the geographical co-ordinate of 13° 43’ and 15° 14’ of northern latitude and 77° 55’and 79° 29’ Eastern longitude. The latitude varies from 269 to 3787 meters above sea level. The District is bounded on North by YSR Kadapa District, South by Chittoor District West by Anantapur District and East by Nellore and Chittoor Districts.",
+      "mandal": "30",
+      "population": "16,97,308",
+      "Area(in sq mtr)": "7,954",
+      "density": "213.39",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s31be3bc32e6564055d5ca3e5a354acbef/uploads/bfi_thumb/2023052763-e1685180438191-q72pm03ydlamrmyuupt4nhqs2aqq4vw2rl8lm8u8kw.jpeg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri P S Girisha, IAS",
+      "number": "-",
+      "Email": "collector-annamayya@ap.gov.in"
+    },
+    {
+      "District Name": "Tirupati",
+      "pic":
+          "https://cdn.s3waas.gov.in/s3ca8155f4d27f205953f9d3d7974bdd70/uploads/2022/04/2022040664-768x544.jpg",
+      "pics2": [
+        "https://cdn.s3waas.gov.in/s3ca8155f4d27f205953f9d3d7974bdd70/uploads/2022/04/2022040116.png",
+        "https://cdn.s3waas.gov.in/s3ca8155f4d27f205953f9d3d7974bdd70/uploads/2022/04/2022040149.jpg",
+        "https://cdn.s3waas.gov.in/s3ca8155f4d27f205953f9d3d7974bdd70/uploads/2022/03/2022030453.jpg",
+        "https://cdn.s3waas.gov.in/s3ca8155f4d27f205953f9d3d7974bdd70/uploads/2022/03/2022031795.jpg",
+        "https://cdn.s3waas.gov.in/s3ca8155f4d27f205953f9d3d7974bdd70/uploads/2022/03/2022032531.jpg",
+        "https://cdn.s3waas.gov.in/s3ca8155f4d27f205953f9d3d7974bdd70/uploads/2022/03/2022032516.jpg",
+        "https://cdn.s3waas.gov.in/s3ca8155f4d27f205953f9d3d7974bdd70/uploads/2022/03/2022032955.jpg",
+        "https://cdn.s3waas.gov.in/s3ca8155f4d27f205953f9d3d7974bdd70/uploads/2022/05/2022051028.png",
+        "https://cdn.s3waas.gov.in/s3ca8155f4d27f205953f9d3d7974bdd70/uploads/2022/09/2022092828.jpg"
+      ],
+      "about District":
+          "Tirupati, the holy city is located in the southeastern part of Andhra Pradesh and Known for ‘Kaliyuga’ deity Lord Venkateswara.  It is located between the Northern Latitudes of 130 21′ 54″ and 140– 30′ 40″ and between the Eastern Longitudes 790 5′ 42″ and 800 4′ 10″.  It is bounded on the east by Bay of Bengal, on the west by Annamayya and Chittoor Districts of Andhra Pradesh, on the North by SPSR Nellore and Annamayya Districts of Andhra Pradesh and on the south by Chittoor District of Andhra Pradesh and Tamilnadu State. In respect of area, it is with an area of 9174 Square Kilometers which accounts for 5.63 percent of the total area of the state.  The general elevation of the mountainous part of the district is 2500 feet above sea level.  The Chennai & Bangalore cities are located in 150 Kms. and 250 Kms. respectively to Tirupati Town.  The District has good business and marketing for Groundnut, Paddy and Other Products.",
+      "mandal": "34",
+      "population": "21,96,984",
+      "Area(in sq mtr)": "8,231",
+      "density": "266.92",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s3ca8155f4d27f205953f9d3d7974bdd70/uploads/bfi_thumb/2022041816-pnja8xgijze47ahpfci49fxb2vk14d0rf7psdu5aja.jpeg",
+      "Designation": "Collector & District Magistrate",
+      "name": "Sri K Venkata Ramana Reddy, IAS",
+      "number": "-",
+      "Email": "collector-tirupati@ap.gov.in"
+    },
+    {
+      "District Name": "Chittoor",
+      "pics2": [
+        "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2022/04/2022042818.jpg",
+        "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2022/04/2022042873.jpg",
+        "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2022/04/2022042817.jpg",
+        "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2022/04/2022042884.jpg"
+      ],
+      "pic":
+          "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2022/04/2022042856-768x543.jpg",
+      "about District":
+          "Chittoor District was constituted on 1st April, 1911 with the admixture of the Culture and Traditions of three borders states of Andhra Pradesh, Tamilnadu and Karnataka. It then comprised the Taluks of Chittoor, Palamaner and Chandragiri transferred from Old North Arcot District of Tamilnadu, Madanapalle and Voyalpadu Taluks of Kadapa District and Ex-Zamindari areas of Punganur, Srikalahasthi, Puttur and Old Karvetinagar estate. Later, Kangundi Taluk of North Arcot District excluding 22 villages was transferred to Palamaner Taluk on 1st December, 1928. This taluk also gained eight villages which were the enclaves of Mysore (Karnataka) State under the Provinces and States (Absorption of enclaves) Order, 1950. The next major change in the jurisdiction of the district took place on 1st April, 1960 as a result of Pataskar Award consequent on the re-organisation of the state on linguistic basis, a major portion of Tiruthani Taluk was transferred to Chengalpattu district of Tamilnadu. Instead one Taluk known as Sathyavedu comprising 76 villages of Tiruvallur Taluk, 72 villages of Ponneri Taluk both of Chengalpattu District of Tamilnadu and 17 villages of Puttur Taluk, 19 villages of Tiruttani Taluk were added to Chittoor District. Also from the same date, the Sub-Taluks of Kuppam and Bangarupalem were constituted transferring 220 villages from Palamaner Taluk and Three villages from Krishnagiri Taluk of Salem District of Tamilnadu to form Kuppam Sub-Taluk and 145 villages from Chittoor Taluk to form Bangarupalem Sub-Taluk. Subsequently, Kuppam and Bangarupalem were made full fledged taluks.",
+      "mandal": "32",
+      "population": "18,72,951",
+      "Area(in sq mtr)": "6,855",
+      "density": "273.22",
+      "adminpic":
+          "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/bfi_thumb/2023042151-q5c26ea6k8mqdu475ywbnf60tzjtzfyn2ngkwsdhl2.jpeg",
+      "Designation": "Collector & District Magistrate",
+      "name": "SHAN MOHAN SAGILI, I.A.S.,",
+      "number": "08572240333",
+      "Email": "collectorchittoor@gmail.com"
+    }
+  ]
+}
